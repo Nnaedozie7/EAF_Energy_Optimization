@@ -109,3 +109,11 @@ This demonstrates:
 
 > Effective EAF optimization is not achieved by maximizing inputs, but by balancing energy efficiency with controlled resource usage under realistic operating constraints.
 
+##  References
+
+- Machine learning analysis of electric arc furnace process for the evaluation of energy efficiency parameters,  Vaso Manojlovi´c a,*, ˇZeljko Kamberovi´c a, Marija Kora´c a, Milan Dotli´c b.
+- Optimizing Energy Efficiency in EAF Steel Production: A Data‐Driven Approach,  Yubin Zhao, Yize Qi*, Jose Diogo Franco Viveiros.
+- An energy optimization study of the electric arc furnace ,  Anton Irawan a,b,∗, Teguh Kurniawan a,b, Hafid Alwan a,b, Zaenal Arifin Muslim c,.
+- Data-Driven Modelling and Optimization of Energy Consumption in EAF. Simon Tomažiˇc * , Goran Andonovski , Igor Škrjanc and Vito Logar.
+- A Hybrid Explainable Machine Learning and Optimization Framework for Energy Reduction in DRI‑Based Electric Arc Furnace Steelmaking,  Narottam Behera1,2 · Hany Hamed1 · Arnab Ghosh2 · Chhavi Sharma2 · Sandip Kumar Lahiri2.
+- Optimization of the Electric Arc Furnace Process, Yadollah Saboohi, Amirhossein Fathi, Igor Sˇ krjanc , and Vito Logar.
